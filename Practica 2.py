@@ -29,7 +29,7 @@ if __name__=="__main__":
 
         iniciador=escullJugador()
         print("HOLA ALBERT")
-        print("HOLA JORDI")
+        print("HOLA aaaaaaa JORDI")
         
 
 
