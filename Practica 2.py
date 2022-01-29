@@ -28,8 +28,7 @@ if __name__=="__main__":
             metodeJoc=input("Aleatòria o Intel·ligent (A/I): ")
 
         iniciador=escullJugador()
-        print("HOLA ALBERT")
-        print("HOLA aaaaahvhyaa JORDI")
+        
         
 
 
